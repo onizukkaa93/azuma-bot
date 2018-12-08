@@ -2,7 +2,7 @@
   "name": "edit",
   "version": "1.0.0",
   "description": "",
-  "index": "discord.js",
+  "main": "discord.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
